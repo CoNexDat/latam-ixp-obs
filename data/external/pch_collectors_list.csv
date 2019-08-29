@@ -1,0 +1,21 @@
+cc,iata_code,city,pch_collector_name,ixp_release_date,collector_placement_date
+BO,lpb,La Paz,route-collector.lpb.pch.net,,2014-03-05
+PY,asu,Asuncion,route-collector.asu.pch.net,2016-05-30,2017-04-10
+AR,cor,Cordoba,route-collector.cor.pch.net,2012-04-24,2014-09-03
+AR,nqn,Neuquen,route-collector.nqn.pch.net,2010-05-10,2014-03-13
+AR,pss,Posadas,route-collector.pss.pch.net,2013-11-28,2018-03-09
+AR,eze,Buenos Aires,route-collector.eze.pch.net,1998-04-01,2010-11-06
+CL,scl,Santiago de Chile,route-collector.scl.pch.net,2016-07-01,2017-04-02
+EC,gye,Guayaquil,route-collector.gye.pch.net,2003-01-01,2017-11-23
+AR,ros,Rosario,route-collector.ros.pch.net,2011-31-03,2018-07-06
+MX,mex,Ciudad de Mexico,route-collector.mex.pch.net,2014-04-30,2014-11-07
+CR,sjo,San Jose,route-collector.sjo.pch.net,2014-04-29,2014-08-05
+BZ,bze,Belize,route-collector.bze.pch.net,2016-04-27,2016-04-26
+HT,pap,Puerto Principe,route-collector.pap.pch.net,2009-05-05,2015-05-11
+HN,tgu,Tegucigalpa,route-collector.tgu.pch.net,2015-07-01,2015-09-24
+JM,kin,Kingston,route-collector.kin.pch.net,2016-01-26,2014-08-29
+TT,pos,Port of Spain,route-collector.pos.pch.net,2014-04-18,2015-03-23
+DE,fra,Frankfurt,route-collector.fra.pch.net,,2010-07-01
+ZA,jnb,Johannesburg,route-collector.jnb.pch.net,,2013-07-01
+TT,bkk,Bangkok,route-collector.bkk.pch.net,,2018-01-01
+FR,cdg,paris,route-collector.cdg.pch.net,,2010-07-01
