@@ -111,6 +111,8 @@ To download our dataset (whether you are interested or not in rerunning the note
 sh fetch_data.sh
 ```
 
+We provide a link to our LG data collection In case you would like to use our dumps: https://cnet.fi.uba.ar/latam-ixp-obs/lg-ribs/
+
 To rerun our notebooks
 ```
 sh run_notebooks.sh
